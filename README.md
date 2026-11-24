@@ -1,5 +1,6 @@
 # Password Strength Checker
 
+[![Python Tests](https://github.com/fin-hoppy/password-checker/actions/workflows/tests.yml/badge.svg)](https://github.com/fin-hoppy/password-checker/actions/workflows/tests.yml)
 [English](README.md) | [日本語](README.ja.md)
 
 ## Overview
